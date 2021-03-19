@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name                = 'glory_lib',
-    version             = '0.1',
+    version             = '0.2',
     description         = 'pip install test',
     author              = 'GloryKim',
     author_email        = 'yklovejesus@gmail.com',
