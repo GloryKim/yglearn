@@ -1,2 +1,2 @@
-def print_soojin(msg):
+def print_glory(msg):
     print(f"라이브러리 {msg}")
